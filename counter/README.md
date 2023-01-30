@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Adding gif to repo
 
-![](https://https://github.com/utkarsh0309/assignment2/blob/main/counter/assignment2%20gif.gif)
+![GIF](https://github.com/utkarsh0309/assignment2/blob/main/counter/assignment2%20gif.gif)
